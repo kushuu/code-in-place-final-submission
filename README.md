@@ -1,3 +1,3 @@
 # code-in-place-final-submission
 
-### My final submission for the CodeInPlace programme.
+### My final submission for the CodeInPlace program.
